@@ -25,5 +25,9 @@
             "source": "https://github.com/Sable/ostrich-c-implementation-common.git",
             "destination": "./common"
         }
+    ],
+    "compatibilities": [
+        "https://github.com/Sable/ostrich-gcc-compiler.git",
+        "https://github.com/Sable/ostrich-native-environment.git"
     ]
 }

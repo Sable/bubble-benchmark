@@ -17,5 +17,9 @@
             "source": "https://github.com/Sable/ostrich-twister-prng.js.git",
             "destination": { "file": "./twister" }
         }
+    ],
+    "compatibilities": [
+        "https://github.com/Sable/ostrich-node-environment.git",
+        "https://github.com/Sable/ostrich-browserify-compiler.git"
     ]
 }

@@ -12,5 +12,9 @@
     ],
     "runner-argument-types": [
         "'DOUBLE&1*1&REAL'"
+    ],
+    "compatibilities": [
+        "https://github.com/Sable/ostrich-matlab-concatenate-compiler.git",
+        "https://github.com/Sable/ostrich-matlab-environment.git"
     ]
 }
