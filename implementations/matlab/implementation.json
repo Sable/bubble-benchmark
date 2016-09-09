@@ -10,7 +10,7 @@
     "runner-arguments": [
         { "expand": "/experiment/input-size" }
     ],
-    "runner-argument-types": [
+    "mclab-core-runner-argument-types": [
         "'DOUBLE&1*1&REAL'"
     ],
     "compatibilities": [

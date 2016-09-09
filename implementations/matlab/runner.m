@@ -27,5 +27,5 @@ function [output] = checksum(A)
         sum2 = mod(sum2 + sum1, 255);
     end
 
-    output = int32(sum2 * 256 + sum1); 
+    output = (sum2 * 256 + sum1); 
 end
